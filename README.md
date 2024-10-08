@@ -1,4 +1,4 @@
-You are developing a Bank Account Management System where the bank has different types of accounts, such as SavingsAccount, CurrentAccount, and Fixed DepositAccount. Each account type has a different way to calculate the interest and withdrawal fee. 
+You are developing a Bank Account Management System where the bank has different types of accounts, such as SavingsAccount, CurrentAccount, and Fixed DepositAccount. Each account type has a different way to calculate the interest and withdrawal fee.
 
 Requirements:
 
